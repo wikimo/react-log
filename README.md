@@ -11,3 +11,19 @@
 * [在react-native中使用redux](http://www.jianshu.com/p/2c43860b0532)
 
 * [Redux 核心概念](http://www.jianshu.com/p/3334467e4b32)
+
+* [react+redux教程（三）reduce()、filter()、map()、some()、every()、...展开属性](http://www.cnblogs.com/lewis617/p/5149006.html)
+
+* [reduce 方法](https://msdn.microsoft.com/zh-cn/library/ff679975(v=vs.94).aspx)
+
+* [ JavaScript reference Standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
+
+* [JavaScript 语言参考](https://msdn.microsoft.com/zh-cn/library/yek4tbz0(v=vs.94).aspx)
+
+* [react-redux-tutorial](https://github.com/lewis617/react-redux-tutorial)
+
+* [js中(function(){…})()立即执行函数写法理解](http://dengo.org/archives/1004)
+
+* [理解 React，但不理解 Redux，该如何通俗易懂的理解 Redux？](https://www.zhihu.com/question/41312576)
+
+* [用React+Redux+ES6写一个最傻瓜的Hello World](https://segmentfault.com/a/1190000004355491?_ea=661485)
