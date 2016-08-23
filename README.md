@@ -77,3 +77,9 @@
 * [A Tour of React Native — Part 1: The Visuals](https://shift.infinite.red/a-tour-of-react-native-part-1-the-visuals-7822f48151f6)
 
 * [A Tour of React Native — Part 2: Redux & Friends](https://shift.infinite.red/a-tour-of-react-native-part-2-redux-friends-4fed022aaa1e)
+
+* [dispatch undefined](https://github.com/reactjs/redux/issues/916)
+
+* [React Native Navigator Experimental Part 2 — Implementing Redux](https://medium.com/@dabit3/react-native-navigator-experimental-part-2-implementing-redux-c6acbf66eca1#.gidagbqzd)
+
+* [method is es5 / es6 react-js-onclick-cant-pass-value-to-method](http://stackoverflow.com/questions/29810914/react-js-onclick-cant-pass-value-to-method)
